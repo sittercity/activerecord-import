@@ -7,7 +7,7 @@ require 'rake/testtask'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
-    gem.name = "activerecord-import"
+    gem.name = "activerecord-import-sc"
     gem.summary = %Q{Bulk-loading extension for ActiveRecord}
     gem.description = %Q{Extraction of the ActiveRecord::Base#import functionality from ar-extensions for Rails 3 and beyond}
     gem.email = "zach.dennis@gmail.com"
